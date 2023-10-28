@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ramadhany Kurnia Pratama</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=22A5F7&width=518&lines=Freelance+Data+Analysis+Tutor+at+Superprof;Freelance+Coding+Tutor+at+Superprof;Teaching+Assistant+at+Pacmann+Ai" alt="Typing SVG" /></a>
 
-I'm a Freelance Tutor and mentor with a strong focus on Data Analysis. I teach with passion and have expertise in SQL, Python, and Data Wrangling. I also take on projects and offer Python mentoring, along with assisting in simple data science projects. Proficient in Python, C++, and JavaScript, I have experience using libraries like Scikit Learn, Pandas, NumPy, and TensorFlow. Skilled in data visualization tools such as Tableau and Looker Studio, as well as Big Data tools like BigQuery, Snowflake and spark. I'm actively seeking opportunities in the roles of Data Scientist and Data Analyst and enthusiastic about mentoring and instructing in related fields.
+I am enthusiastic about data analysis. I have experience as a teaching assistant in the field of data analytics and have worked as a freelance data analysis tutor. I enjoy learning new things and am always ready for new challenges. Currently, I am seeking a position as a Junior Data Analyst to further develop my skills and make a meaningful contribution in the field of data analysis.
 
 - 🌱 I’m learning **everything about Data Science and Analysis**
 
