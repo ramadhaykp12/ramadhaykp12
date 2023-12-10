@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ramadhanykurniapratama@gmail.com**
 
-- ⚡ Fun fact: **I like anime, football, archery and memes**
+- ⚡ Fun fact: **I like anime, football, graphic design and memes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
