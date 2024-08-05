@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ramadhany Kurnia Pratama</h1>
 <h3 align="center">I'm interesting in Information and Technology</h3>
 
-- 🌱 I’m currently learning **Data Science, Machine Learning, Artificial Intelligence and Fullstack Development**
+- 🌱 I’m currently learning **Data Science, Machine Learning and Artificial Intelligence**
 
 - 📫 How to reach me **ramadhanykurniapratama@gmail.com**
-
-- ⚡ Fun fact: **I like anime, football, graphic design and memes**
 
 ![ramadhaykp12's Stats](https://github-readme-stats.vercel.app/api?username=ramadhaykp12&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
